@@ -9,6 +9,7 @@ I "pack" three types into one particular type, and then apply "selector type" to
 ## compile-time-fibonacci.cpp
 
 Prints a fibonacci number sequence, then the compilation fails.
+Run at Ideone: https://ideone.com/JIoGHY
 
 ## list-and-conditions.cpp
 
