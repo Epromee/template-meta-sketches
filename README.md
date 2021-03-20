@@ -14,3 +14,7 @@ Run at Ideone: https://ideone.com/JIoGHY
 ## list-and-conditions.cpp
 
 Conditionally retrieves types.
+
+## dynamic-list-and-filter.cpp
+
+Makes a list of dynamically typed entries, and then filters only those which contain integer values. Run at Ideone: https://ideone.com/x9Ncxn
