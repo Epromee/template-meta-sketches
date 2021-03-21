@@ -1,4 +1,4 @@
-# What it is
+# C++ template metaprogramming sketches
 
 Some hacks and ideas for C++ metaprogramming
 
