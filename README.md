@@ -4,7 +4,7 @@ Some hacks and ideas for C++ metaprogramming
 
 ## closure-selector.cpp
 
-I "pack" three types into one particular type, and then apply "selector type" to retrieve needed type.
+I "pack" three types into one particular type, and then apply a "selector type" to retrieve the needed type.
 
 ## compile-time-fibonacci.cpp
 
